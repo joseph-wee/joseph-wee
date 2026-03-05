@@ -16,7 +16,7 @@
 | 기간                | 내용                                                                                         |
 | ----------------- | ------------------------------------------------------------------------------------------ |
 | 2022.12 ~ 2024.07 | [잔여 원단 구매, 판매 플랫폼 서비스](https://github.com/joseph-wee/repunch-web-public/tree/develop)      |
-| 2024.09 ~ 진행중     | [베트남의 지역 기반 재능 및 중고 거래 플랫폼 서비스 웹 페이지](https://github.com/mobileto/sayyo_web)               |
+| 2024.09 ~ 진행중     | [베트남의 지역 기반 재능 및 중고 거래 플랫폼 서비스 웹 페이지](https://github.com/joseph-wee/sayyo-web-public)              |
 | 2024.09 ~ 2025.01 | [Mobileto 회사 소개 홈페이지](https://github.com/joseph-wee/mobileto-web-public)                   |
 | 2023.03 ~ 2023.12 | [동국대학교 졸업 판별 웹 서비스](https://github.com/joseph-wee/DGU-GDS-web)                             |
 | 2023.09 ~ 2023.12 | [데이트 코스 추천 어플리케이션](https://github.com/joseph-wee/nadlewe-app)                              |
